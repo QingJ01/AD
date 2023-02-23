@@ -719,7 +719,6 @@ pgyer.com##div.row-fluid.text-center
 ||chuiyao.com/static/js$script
 ||by.bollore-logistics.com^
 ||d3mr7y154d2qg5.cloudfront.net^
-! Homepage: https://github.com/banbendalao/ADgk
 ||adbuff.com^
 ||quapp.1122dh.com/adscom^
 ||ahksqc.com.cn^
