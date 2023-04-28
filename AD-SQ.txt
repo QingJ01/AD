@@ -3,6 +3,7 @@
 ! Title: AD-SQ去广告规则
 ! Homepage: https://gitee.com/issq/AD-SQ
 ! Powered by SQKteam
+! url: https://raw.githubusercontent.com/SQ8888/AD/main/AD-SQ.txt
 baidu.com$$article[rl-link-data-url="mbd.baidu.com"]
 ||gozendata.com^
 /sm/xycms.
